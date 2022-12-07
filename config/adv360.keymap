@@ -69,11 +69,11 @@
 
         layer_nav {
             bindings = <
-  &kp F1        &kp F2        &kp F3        &kp F4        &kp F5         &kp F6                &tog 2      &none          &kp F7     &kp F8     &kp F9   &kp F10       &kp F11         &kp F12
- &kp TAB         &none  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9          &none                 &none      &none       &kp PG_UP      &none      &none     &none         &none        &kp CAPS
- &kp ESC  &kp NUMBER_0  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6          &none                 &none  &kp LCTRL           &none                        &kp LGUI  &kp LEFT_ALT  &kp LEFT_ARROW   &kp DOWN  &kp UP  &kp RIGHT   &none   &none  &tog 3
-   &mo 3         &none  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3          &none                &trans     &trans           &none      &none      &none     &none        &trans          &trans  &kp PG_DN   &none      &none   &none   &none  &tog 1
-   &none         &none         &none         &none         &none  &kp BACKSPACE            &kp DELETE      &mo 1  &kp LEFT_SHIFT  &kp ENTER  &kp SPACE     &none         &none           &none      &none  &tog 0
+  &kp F1  &kp F2        &kp F3        &kp F4        &kp F5         &kp F6                &tog 2      &none          &kp F7     &kp F8     &kp F9   &kp F10       &kp F11         &kp F12
+ &kp TAB   &none  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9          &none                 &none      &none       &kp PG_UP      &none      &none     &none         &none        &kp CAPS
+ &kp ESC   &none  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6   &kp NUMBER_0                 &none  &kp LCTRL           &none                        &kp LGUI  &kp LEFT_ALT  &kp LEFT_ARROW   &kp DOWN  &kp UP  &kp RIGHT   &none   &none  &tog 3
+   &mo 3   &none  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3          &none                &trans     &trans           &none      &none      &none     &none        &trans          &trans  &kp PG_DN   &none      &none   &none   &none  &tog 1
+   &none   &none         &none         &none         &none  &kp BACKSPACE            &kp DELETE      &mo 1  &kp LEFT_SHIFT  &kp ENTER  &kp SPACE     &none         &none           &none      &none  &tog 0
             >;
         };
 
